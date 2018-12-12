@@ -1,0 +1,32 @@
+table {
+    margin:auto;
+}
+h1 {
+    text-align:center;
+}
+.left {
+    border-right: 2px solid black;
+    padding: 100px;
+}
+#topleft {
+    border-bottom: 2px solid black;
+}
+#middleleft {
+    border-bottom: 2px solid black;
+}
+#middletop {
+    border-bottom: 2px solid black;
+}
+.middle {
+    border-right: 2px solid black;
+    padding: 100px;
+    border-bottom: 2px solid black;
+}
+.right {
+    border-bottom: 2px solid black;
+    padding: 100px;
+}
+#middlebottom {
+    border-right: 2px solid black;
+    padding: 100px;
+}

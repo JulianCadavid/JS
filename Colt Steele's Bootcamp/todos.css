@@ -1,0 +1,18 @@
+body {
+    background: rgba(50, 50, 50,.41);
+}
+#secondLi {
+    color:pink;
+}
+
+input[type=checkbox]:checked + label {
+    text-decoration: line-through;
+
+}
+
+h4 + ul {
+    color: rgba(25,10,211,.41)
+}
+input[type ='text'] {
+
+}

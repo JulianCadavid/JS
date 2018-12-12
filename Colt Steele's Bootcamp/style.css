@@ -1,0 +1,14 @@
+h1 {
+    color: rgba(1,50, 150, .65);
+    font-size: 85px;
+}
+ul {
+    border: 1px solid darkblue;
+
+}
+li {
+    color: blue;
+}
+body {
+    background-color: rgba(1, 50, 150, .2);
+}

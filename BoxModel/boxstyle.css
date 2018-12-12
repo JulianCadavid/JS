@@ -1,0 +1,21 @@
+h1 {
+    padding-left: 40px;
+    /*padding-left: 10px;*/
+    /*Margin space on the outside of the border, (between elements) */
+    margin: 20px auto 0 auto;
+    text-align:center;
+}
+p {
+    border:1px solid black;
+    width: 50%;
+    /* Padding is the space between the element and the border */
+    padding-left: 40px;
+    /*padding-left: 10px;*/
+    /*Margin space on the outside of the border, (between elements) */
+    margin: 20px auto 0 auto;
+    text-align:center;
+    /*Margin auto, center an element.*/
+
+
+
+}
